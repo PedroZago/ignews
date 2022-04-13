@@ -1,8 +1,8 @@
-import Image from 'next/image';
+import Image from 'next/image'
 
-import { SignInButton } from '../SignInButton';
+import { SignInButton } from '../SignInButton'
 
-import styles from './styles.module.scss';
+import styles from './styles.module.scss'
 
 export function Header() {
   return (
@@ -18,5 +18,5 @@ export function Header() {
         <SignInButton />
       </div>
     </header>
-  );
+  )
 }
