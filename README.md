@@ -51,6 +51,8 @@ $ yarn dev
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 # Execute o Prismic CMS localmente
 $ yarn run slicemachine
+# Execute os testes
+$ yarn test
 ```
 
 ---
@@ -66,6 +68,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[Stripe](https://stripe.com)**
 -   **[Axios](https://github.com/axios/axios)**
 -   **[Next.js](https://github.com/vercel/next.js)**
+-   **[Jest](https://jestjs.io/pt-BR/)**
+-   **[Testing Library](https://testing-library.com/)**
 
 ---
 
